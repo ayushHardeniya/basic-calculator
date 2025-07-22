@@ -113,4 +113,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Ayush Hardeniya (a.k.a Ayush Sharma)
 [Linkedin](https://linkedin.com/in/ayushhardeniya)
 
-Project Link: [https://github.com/yourusername/basic-calculator](https://github.com/yourusername/basic-calculator)
+Project Link: [https://github.com/ayushhardeniya/basic-calculator](https://github.com/ayushhardeniya/basic-calculator)
